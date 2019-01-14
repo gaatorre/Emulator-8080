@@ -1,0 +1,16 @@
+{
+  "uploadOnSave": true,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "hb.ucsc.edu",
+  "port": "22",
+  "target": "/afs/cats.ucsc.edu/users/o/gaatorre/Emulator101",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "gaatorre",
+  "password": "PGECXX!@asdf",
+  "watch": [],
+  "transport": "scp"
+}
